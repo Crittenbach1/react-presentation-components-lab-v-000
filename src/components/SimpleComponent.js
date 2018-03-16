@@ -21,4 +21,5 @@ class DumbComponent extends Component {
   }
 }
 
+
 export default DumbComponent;
